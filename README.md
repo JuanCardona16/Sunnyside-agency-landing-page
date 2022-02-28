@@ -24,8 +24,8 @@ The designs were created to the following widths:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JuanCardona16/Sunnyside-agency-landing-page/)
-- Live Site URL: [Add live site URL here](https://juancardona16.github.io/Sunnyside-agency-landing-page/)
+- Solution URL: [repository](https://github.com/JuanCardona16/Sunnyside-agency-landing-page/)
+- Live Site URL: [Site URL](https://juancardona16.github.io/Sunnyside-agency-landing-page/)
 
 ### Built with
 
